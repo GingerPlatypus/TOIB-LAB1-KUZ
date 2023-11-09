@@ -38,40 +38,38 @@
 
 ![](screenshots/11.png)
 
-![](screenshots/12.png)
-
 ## Создание ролей
 
-![](screenshots/13.png)
+![](screenshots/12.png)
 
 ## Cтартовая страница Nextcloud
 
-![](screenshots/14.png)
+![](screenshots/13.png)
 
 ## Установка Social Login
 
-![](screenshots/15.png)
+![](screenshots/14.png)
 
 ## Конфигурация для работы с Keycloak
 
-![](screenshots/16.png)
+![](screenshots/15.png)
 
 ## Проверка возможность идентификации через Keycloak
+
+![](screenshots/16.png)
 
 ![](screenshots/17.png)
 
 ![](screenshots/18.png)
 
-![](screenshots/19.png)
-
 ## Включение двухфакторной аутентификации
 
-![](screenshots/20.png)
+![](screenshots/19.png)
 
 ## Страница настройки 2FA
 
-![](screenshots/21.png)
+![](screenshots/20.png)
 
 ## Страница ввода одноразового кода
 
-![](screenshots/22.png)
+![](screenshots/21.png)
