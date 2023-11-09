@@ -46,30 +46,34 @@
 
 ![](screenshots/13.png)
 
-## Установка Social Login
-
 ![](screenshots/14.png)
 
-## Конфигурация для работы с Keycloak
+## Установка Social Login
 
 ![](screenshots/15.png)
 
-## Проверка возможность идентификации через Keycloak
+## Конфигурация для работы с Keycloak
 
 ![](screenshots/16.png)
+
+## Проверка возможность идентификации через Keycloak
 
 ![](screenshots/17.png)
 
 ![](screenshots/18.png)
 
-## Включение двухфакторной аутентификации
-
 ![](screenshots/19.png)
 
-## Страница настройки 2FA
+## Включение двухфакторной аутентификации
 
 ![](screenshots/20.png)
 
-## Страница ввода одноразового кода
+## Страница настройки 2FA
 
 ![](screenshots/21.png)
+
+## Страница ввода одноразового кода
+
+![](screenshots/22.png)
+
+![](screenshots/23.png)
